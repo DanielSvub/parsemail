@@ -1,3 +1,3 @@
-module github.com/SpongeData-cz/parsemail
+module github.com/DanielSvub/parsemail
 
 go 1.16
